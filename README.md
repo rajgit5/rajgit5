@@ -29,6 +29,13 @@ Feel free to reach out to me on LinkedIn for collaborations, discussions, or opp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rajesh-rks/)
 
 ---
+
+## 🌐 Portfolio
+Explore my projects, skills, and journey on my portfolio website:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://rajesh-sahu.netlify.app/)
+
 ---
+
 
 <p align="center">&copy; 2024 Rajesh Sahu. All Rights Reserved.</p>
